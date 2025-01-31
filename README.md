@@ -53,4 +53,4 @@ The application will open in your default web browser.
 
 ## License
 
-Aashish License
+MIT License
